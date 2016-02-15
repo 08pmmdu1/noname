@@ -1,0 +1,6 @@
+E:\projects\noname\Noname_App\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+E:\projects\noname\Noname_App\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\projects\noname\Noname_App\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\projects\noname\Noname_App\ClassLibrary1\ClassLibrary1\obj\Debug\NoName.csprojResolveAssemblyReference.cache
+E:\projects\noname\Noname_App\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\projects\noname\Noname_App\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

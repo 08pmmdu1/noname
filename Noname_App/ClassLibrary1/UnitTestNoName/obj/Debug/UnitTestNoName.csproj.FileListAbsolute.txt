@@ -1,0 +1,9 @@
+E:\projects\noname\Noname_App\ClassLibrary1\UnitTestNoName\bin\Debug\UnitTestNoName.dll
+E:\projects\noname\Noname_App\ClassLibrary1\UnitTestNoName\bin\Debug\UnitTestNoName.pdb
+E:\projects\noname\Noname_App\ClassLibrary1\UnitTestNoName\bin\Debug\ClassLibrary1.dll
+E:\projects\noname\Noname_App\ClassLibrary1\UnitTestNoName\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\projects\noname\Noname_App\ClassLibrary1\UnitTestNoName\bin\Debug\ClassLibrary1.pdb
+E:\projects\noname\Noname_App\ClassLibrary1\UnitTestNoName\obj\Debug\UnitTestNoName.csprojResolveAssemblyReference.cache
+E:\projects\noname\Noname_App\ClassLibrary1\UnitTestNoName\obj\Debug\UnitTestNoName.dll
+E:\projects\noname\Noname_App\ClassLibrary1\UnitTestNoName\obj\Debug\UnitTestNoName.pdb
+E:\projects\noname\Noname_App\ClassLibrary1\UnitTestNoName\bin\Debug\UnitTestNoName.dll.config

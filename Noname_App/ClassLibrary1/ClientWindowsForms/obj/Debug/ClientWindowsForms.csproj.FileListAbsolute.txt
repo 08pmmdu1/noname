@@ -1,0 +1,14 @@
+E:\projects\noname\Noname_App\ClassLibrary1\ClientWindowsForms\bin\Debug\ClientWindowsForms.exe.config
+E:\projects\noname\Noname_App\ClassLibrary1\ClientWindowsForms\bin\Debug\ClientWindowsForms.exe
+E:\projects\noname\Noname_App\ClassLibrary1\ClientWindowsForms\bin\Debug\ClientWindowsForms.pdb
+E:\projects\noname\Noname_App\ClassLibrary1\ClientWindowsForms\bin\Debug\ClassLibrary1.dll
+E:\projects\noname\Noname_App\ClassLibrary1\ClientWindowsForms\bin\Debug\ClassLibrary1.pdb
+E:\projects\noname\Noname_App\ClassLibrary1\ClientWindowsForms\obj\Debug\ClientWindowsForms.csprojResolveAssemblyReference.cache
+E:\projects\noname\Noname_App\ClassLibrary1\ClientWindowsForms\obj\Debug\ClientWindowsForms.Form1.resources
+E:\projects\noname\Noname_App\ClassLibrary1\ClientWindowsForms\obj\Debug\ClientWindowsForms.Properties.Resources.resources
+E:\projects\noname\Noname_App\ClassLibrary1\ClientWindowsForms\obj\Debug\ClientWindowsForms.csproj.GenerateResource.Cache
+E:\projects\noname\Noname_App\ClassLibrary1\ClientWindowsForms\obj\Debug\ClientWindowsForms.exe
+E:\projects\noname\Noname_App\ClassLibrary1\ClientWindowsForms\obj\Debug\ClientWindowsForms.pdb
+E:\projects\noname\Noname_App\ClassLibrary1\ClientWindowsForms\bin\Debug\UnitTestNoName.dll
+E:\projects\noname\Noname_App\ClassLibrary1\ClientWindowsForms\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\projects\noname\Noname_App\ClassLibrary1\ClientWindowsForms\bin\Debug\UnitTestNoName.pdb
