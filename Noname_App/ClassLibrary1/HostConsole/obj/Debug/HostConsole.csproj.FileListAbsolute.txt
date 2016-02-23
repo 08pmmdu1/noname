@@ -1,0 +1,8 @@
+E:\projects\noname\Noname_App\ClassLibrary1\HostConsole\bin\Debug\HostConsole.exe.config
+E:\projects\noname\Noname_App\ClassLibrary1\HostConsole\bin\Debug\HostConsole.exe
+E:\projects\noname\Noname_App\ClassLibrary1\HostConsole\bin\Debug\HostConsole.pdb
+E:\projects\noname\Noname_App\ClassLibrary1\HostConsole\bin\Debug\ClassLibrary1.dll
+E:\projects\noname\Noname_App\ClassLibrary1\HostConsole\bin\Debug\ClassLibrary1.pdb
+E:\projects\noname\Noname_App\ClassLibrary1\HostConsole\obj\Debug\HostConsole.csprojResolveAssemblyReference.cache
+E:\projects\noname\Noname_App\ClassLibrary1\HostConsole\obj\Debug\HostConsole.exe
+E:\projects\noname\Noname_App\ClassLibrary1\HostConsole\obj\Debug\HostConsole.pdb
